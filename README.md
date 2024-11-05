@@ -15,3 +15,17 @@ The primary sources of Data used is Capstone Project.xlxs containing sales data 
 ### Tool used
 Microsoft Excel for data cleaning, analysis and visualization
 
+### Data Visualiztion
+
+
+![Customerdata](https://github.com/user-attachments/assets/81765dba-fd6e-4882-be96-a231f653cf73)
+
+![Pivot Tables](https://github.com/user-attachments/assets/b25c8024-6213-48fa-b8d8-5ed46c00666c)
+
+![SalesData](https://github.com/user-attachments/assets/e6f07b5d-5d67-4c9a-8df8-228ad31f5466)
+
+
+
+
+
+
