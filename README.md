@@ -13,7 +13,13 @@ Assess revenue contributions by region and recognize products with no sales in r
 The primary sources of Data used is Capstone Project.xlxs containing sales data which includes information on sales transactions, such as product categories, transaction amounts, dates, and regions as well as Customer data which encompasses details about customers, including demographics, purchase history, and preferences. 
 
 ### Tool used
-Microsoft Excel for data cleaning, analysis and visualization
+Microsoft Excel [Download Here](https://www.microsoft.com)
+
+-For data cleaning
+
+-For analysis
+
+-For visualization
 
 ### Data Visualiztion
 
