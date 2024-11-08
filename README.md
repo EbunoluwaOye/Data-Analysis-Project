@@ -96,3 +96,27 @@ to analyze the data and generate actionable insights.
 ### Data Visualiztion
 
 ![Customerdata](https://github.com/user-attachments/assets/81765dba-fd6e-4882-be96-a231f653cf73)
+
+
+![SQL I](https://github.com/user-attachments/assets/3d7c4365-be57-475c-8be3-b423d99f77c2)
+
+
+![SQL II](https://github.com/user-attachments/assets/73416f7f-74fc-4b42-9012-4de63bd01cee)
+
+
+![SQL III](https://github.com/user-attachments/assets/1180fb04-38fc-404b-8b44-3de73645d15f)
+
+
+![SQL IV](https://github.com/user-attachments/assets/b4c69d9f-8944-4b4d-9ba2-509c126086ca)
+
+
+![SQL V](https://github.com/user-attachments/assets/6f00e007-a0be-4f2b-a84e-ca4324851734)
+
+
+![SQL VI](https://github.com/user-attachments/assets/baac9875-702f-4070-896d-b52181b2857b)
+
+
+![SQL VII](https://github.com/user-attachments/assets/5a637597-6beb-4565-87c3-335f21306844)
+
+
+![SQL VIII](https://github.com/user-attachments/assets/9f53fb07-7735-4da6-a6d6-3996086cc47b)
