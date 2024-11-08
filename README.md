@@ -1,6 +1,6 @@
-# Data-Analysis-Project
+# Data-Analysis-Projects
 
-### Project Title: Sales Performance Analysis 
+### Project 1 Title: Sales Performance Analysis 
 ### Project Overview
 This project aims to analyze sales and customer data to derive key insights that can drive business strategies. 
 I applied Excel functions to: 
@@ -29,7 +29,6 @@ PowerBI
 ### Data Visualiztion
 
 
-![Customerdata](https://github.com/user-attachments/assets/81765dba-fd6e-4882-be96-a231f653cf73)
 
 ![Pivot Tables](https://github.com/user-attachments/assets/b25c8024-6213-48fa-b8d8-5ed46c00666c)
 
@@ -53,3 +52,47 @@ PowerBI
 
 
 ![SQL8](https://github.com/user-attachments/assets/91946831-d321-4f3d-af93-bc588e3e15c3)
+
+
+
+
+
+### Project 2 Title: CustomerSubscriptionAnalysis
+### Project Overview
+The Customer Subscription Analysis project aims to analyze customer subscription data to uncover insights related to customer behavior, revenue generation, and subscription trends. The dataset includes information about customer IDs, names, regions, subscription types, start and end dates, subscription durations, cancellation status, and revenue generated.
+
+### Objectives:
+Data Exploration: Examine the dataset for patterns in customer behavior, such as subscription renewals and cancellations.
+Revenue Analysis: Calculate total revenue generated over specific periods and identify the most profitable customers or regions.
+Cancellation Insights: Investigate reasons for cancellations and develop strategies to reduce churn rates.
+Trend Visualization: Create visual representations of subscription trends over time to facilitate better decision-making.
+
+### Key Features:
+Data cleaning and preprocessing to ensure accuracy and consistency.
+Statistical analysis to derive insights about customer demographics and subscription patterns.
+Interactive visualizations to present findings in a user-friendly manner.
+Recommendations for improving subscription retention and increasing overall revenue.
+
+### Data Sources
+The primary sources of Data used is Capstone Project.xlxs containing Customer data which encompasses details about customers, including demographics, purchase history, and preferences. 
+
+### Tool used
+This project will leverage tools such as:
+
+1. Microsoft Excel [Download Here](https://www.microsoft.com)
+
+-For data cleaning
+
+-For analysis
+
+-For visualization
+
+2. SQL Server Management Studio 20
+
+3. PowerBI
+   
+to analyze the data and generate actionable insights.
+
+### Data Visualiztion
+
+![Customerdata](https://github.com/user-attachments/assets/81765dba-fd6e-4882-be96-a231f653cf73)
